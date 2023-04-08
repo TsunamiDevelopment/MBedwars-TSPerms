@@ -1,0 +1,5 @@
+name: TeamSelector_Permissions
+version: 0.0.0
+author: ExperimentalX
+main: org.tsunamidev.team_permission.TeamPermissionPlugin
+depend: [ MBedwars ]
